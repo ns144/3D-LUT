@@ -1,2 +1,4 @@
 *.pth.tar
+*.cube
+*.jpg
 .ipynb_checkpoints
