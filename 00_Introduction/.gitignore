@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+/pillow_lut/__pycache__/
+/pillow_lut/*.py[cod]
+/tests/__pycache__/
+/tests/*.py[cod]
+
+# Distribution / packaging
+/dist/
+/*.egg-info/
+/.eggs/
+
+
+/.coverage
+
+/docs/_build
