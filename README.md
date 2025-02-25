@@ -15,7 +15,7 @@ See:  [01_CNN_Img2LUT](https://github.com/ns144/3D-LUT/tree/main/01_CNN_Img2LUT)
 
 In this first experiment, the goal is to prove the general learnability and generation of 3D LUTs with a Convolutional Neural Network (CNN). The CNN receives an RGB image as input and outputs a 3D LUT. The underlying assumption of the experiment is that the generation of a 3D LUT is comparable to the generation of images. In the second stage of the experiment, the performance of CNN-generated 3D LUT is compared to a 3D LUT based on conventional calculations to see the accuracy and speed of AI in the computationally expensive task of estimating LUTs. We will use the mean squared error (MSE) on the validation target images and the generated images to test the performance and generalization of our model. To prove that our model is truly capable of learning image-adaptive 3D LUTs we train our model to enhance images in the third step.   
 
-Below we show some of the images edited with our model trained in the thirds step. The images on top are the original images and the images in the second row are the images edit by our model:
+Below we show some of the images edited with our model trained in the third step. The images on top are the original images and the images in the second row are the images edit by our model:
 
 ![Automated edited images](/Images/AutoEditImages.jpg)
 
