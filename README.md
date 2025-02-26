@@ -23,3 +23,12 @@ Below we show some of the images edited with our model trained in the third step
 
 ## Learning 3D LUTs with unpaired image data
 
+As we do not have access to paired image data for analog film images and digital images we have to find an approach that can handle the challenges of unpaired image data. We included our 3D LUT model in the following architectures:
+
+- GAN: [02_GAN_Img2LUT](https://github.com/ns144/3D-LUT/tree/main/02_GAN_Img2LUT)
+
+- CycleGAN: [03_CycleGAN_Img2LUT](https://github.com/ns144/3D-LUT/tree/main/03_CycleGAN_Img2LUT)
+
+- StarGAN: 
+
+We achieved the best results with StarGAN, which also enables us to translate between different films with a single model. 
