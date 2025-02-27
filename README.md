@@ -11,7 +11,7 @@ With our approach, we can preserve the resolution of the original image while st
 
 All Jupyter Notebooks are available as PDFs in (PDF)[https://github.com/ns144/3D-LUT/tree/main/PDF]
 
-You will also find HTML of the notebooks next to the notebook files.
+You will also find HTML files of the notebooks next to the notebook files.
 
 ## Learning 3D LUTs with paired image data
 
