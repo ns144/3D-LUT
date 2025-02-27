@@ -32,7 +32,7 @@ As we do not have access to paired image data for analog film images and digital
 - StarGAN: [04_StarGAN_Img2LUT](https://github.com/ns144/3D-LUT/tree/main/04_StarGAN_Img2LUT)
 
 We achieved the best results with StarGAN, which also enables us to translate between different films with a single model. 
-The following images show a test images translated by our StarGAN based model to the looks of Kodak Gold, Cinestill 800T and Kodak Portra: 
+The following images show test images translated by our StarGAN based model to the looks of Kodak Gold, Cinestill 800T and Kodak Portra: 
 
 ![Ex02](https://github.com/user-attachments/assets/74057b31-36e3-4aa8-bf08-c08b3e584884)
 ![Ex08](https://github.com/user-attachments/assets/a292bb00-3259-4e4e-b2a7-5284dd51df67)
