@@ -1,0 +1,3 @@
+# Translate to the look of multiple analog films: StarGAN for 3D LUT generation 
+
+With the adaptation of StarGAN in [Img2LUT_StarGAN.ipynb](https://github.com/ns144/3D-LUT/blob/main/04_StarGAN_Img2LUT/Img2LUT_StarGAN.ipynb) we hope to further increase stability and quality of our generated 3D LUTs as well as getting a model that can translate digital images to a variety of different analog films at once.
