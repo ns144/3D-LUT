@@ -32,7 +32,14 @@ As we do not have access to paired image data for analog film images and digital
 - StarGAN: 
 
 We achieved the best results with StarGAN, which also enables us to translate between different films with a single model. 
-The following image shows a test image translated by our StarGAN based model to the looks of Kodak Gold, Cinestill 800T and Kodak Ektar: 
+The following images show a test images translated by our StarGAN based model to the looks of Kodak Gold, Cinestill 800T and Kodak Portra: 
 
-![StarGAN_Result](https://github.com/user-attachments/assets/fd2a32d3-8a94-4c3a-821b-d14c82971d21)
+![Ex01](https://github.com/user-attachments/assets/809d67aa-eddc-4604-abc0-be249b1c32be)
 
+![Ex02](https://github.com/user-attachments/assets/74057b31-36e3-4aa8-bf08-c08b3e584884)
+![Ex08](https://github.com/user-attachments/assets/a292bb00-3259-4e4e-b2a7-5284dd51df67)
+![Ex09](https://github.com/user-attachments/assets/6d08fbd4-89ec-47e1-ab2f-42dbe114cae6)
+![Ex14](https://github.com/user-attachments/assets/33aede52-1014-41d4-a186-fc493c8d2cd8)
+
+![Ex11](https://github.com/user-attachments/assets/31a0e3bb-34d7-48a0-a0df-8c029a62ddb7)
+![Ex13](https://github.com/user-attachments/assets/99b65da9-10b0-4ebc-9e2f-620728f64e2e)
