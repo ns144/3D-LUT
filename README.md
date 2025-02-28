@@ -1,5 +1,5 @@
 # 3D-LUT
-
+## [Related Paper](https://drive.google.com/file/d/151RQBHUgJpXk7DKFcCrj-5WdIKknrhbe/view?usp=sharing)
 In this work, we attempt to transform digital images into the look of various analogue film stocks, leveraging the power of generative artificial intelligence (AI) performing this style translation based on the input image. We focus on the aspect of color rendition with the goal of transforming images without a loss of resolution or image quality to make our work applicable in professional photography.
 
 Instead of a pixel-based image-to-image translation, we use 3D lookup tables (LUTs) to manipulate the colors of an input image to avoid the limitation in image resolution.
